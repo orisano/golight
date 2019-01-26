@@ -1,5 +1,5 @@
 # golight
-LightGBM binding for golang. it supports only prediction.
+LightGBM's binding for go. it only supports the prediction.
 
 ## Author
 Nao YONASHIRO (@orisano)
