@@ -2,7 +2,7 @@
 LightGBM's binding for go. it only supports the prediction.
 
 ## Author
-Nao YONASHIRO (@orisano)
+Nao Yonashiro (@orisano)
 
 ## License
 MIT
